@@ -1,0 +1,9 @@
+node_modules
+.expo
+dist
+src/lib
+package-lock.json
+PLAN.md
+AGENTS.md
+docs
+.claude
